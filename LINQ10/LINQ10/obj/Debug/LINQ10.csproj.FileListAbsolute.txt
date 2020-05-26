@@ -1,0 +1,2 @@
+C:\Users\Chicot1k\source\repos\LINQ10\LINQ10\obj\Debug\LINQ10.csprojAssemblyReference.cache
+C:\Users\Chicot1k\source\repos\LINQ10\LINQ10\obj\Debug\LINQ10.csproj.CoreCompileInputs.cache
